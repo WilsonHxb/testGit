@@ -4,6 +4,7 @@ public class TestConflict {
 
 	public static void main(String[] args) {
 		System.out.println("test conflict....123");
+		System.out.print("abc");
 	}
 
 }

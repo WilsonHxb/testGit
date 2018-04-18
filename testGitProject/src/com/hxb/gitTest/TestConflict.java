@@ -5,7 +5,7 @@ public class TestConflict {
 	public static void main(String[] args) {
 		System.out.println("A... net edited");
 		System.out.print("B...");
-		System.out.print("C...eclipse edited");
+		System.out.print("C...eclipse edited 1");
 	}
 
 }
